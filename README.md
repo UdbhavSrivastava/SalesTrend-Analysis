@@ -1,10 +1,19 @@
-# SalesTrend Analysis
+# SalesTrend Analysis - [dashboard](https://public.tableau.com/app/profile/udbhav.srivastava7988/viz/SalesDashboard_17112120980450/SalesDashboard?publish=yes)
+
 
 Welcome to SalesTrend Analysis! This repository serves as a comprehensive resource for analyzing sales performance and customer insights in the retail sector. Using SQL queries and Tableau visualizations, we dive deep into sales data to uncover valuable trends and patterns that drive business growth.
 
 ## Objective
 
 The objective of SalesTrend Analysis is to leverage data analytics to gain insights into sales performance, customer segmentation, and product profitability. Through meticulous analysis, we aim to provide actionable recommendations to optimize operations and enhance profitability in the retail industry.
+
+
+## Schema 
+<p align="center">
+  <img src="Schema.png" alt="Description of Image">
+</p>
+
+These tables are interconnected using primary and foreign keys to establish relationships between them, allowing for efficient data retrieval and analysis across different dimensions such as orders, customers, products, and locations.
 
 ## Key Features
 
